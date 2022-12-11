@@ -57,3 +57,10 @@ function lovefunc (flower1, flower2){
 }
 ```
 
+## Languages
+
+- English - fluent
+- Russian, Ukraininan - native
+
+
+
