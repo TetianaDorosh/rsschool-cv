@@ -72,13 +72,15 @@ h1 {
 
 footer {
   border-top: silver solid;
-  float: left;
+  /* float: left; */
 }
-
+/* 
 .logo {
   float: right;
-}
+} */
 
-span {
-  text-aline: center;
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
